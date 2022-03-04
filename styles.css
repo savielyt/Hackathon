@@ -1,0 +1,77 @@
+body {
+    font-family: 'Montagu Slab', sans-serif;
+}
+p {
+    color: #63371e; 
+    text-align: center;
+    font-family: 'Montagu Slab', sans-serif;
+    font-size: 30px;
+    font-weight: 800;
+}
+.title {
+    color: #ade28a;
+    font-size: 50px;
+    background-color: #407056;
+    font-weight: 800;
+    padding: 20px;
+    text-align: center;
+}
+.start-button {
+    height: 50px;
+    width: 100px;
+}
+.firstImage {
+    height: 400px;
+    width: 500px;
+    border: 5px solid #95c22b;
+    padding: 2px;
+    text-align: center;
+    margin: 0px 700px 0px 700px;
+}
+.secondImage {
+    height: 400px;
+    width: 500px;
+    border: 5px solid #95c22b;
+    padding: 2px;
+    text-align: center;
+    margin: 0px 100px 0px 100px;
+    display:none;
+}
+.thirdImage {
+    height: 400px;
+    width: 500px;
+    border: 5px solid #95c22b;
+    padding: 2px;
+    text-align: center;
+    margin: 0px 300px 0px 300px;
+    display:none;
+}
+.button {
+    display: flex;
+    height: 50px;
+    width: 200px;
+    font-size: 50px;
+    font-weight: bolder;
+    justify-content: center;
+    margin: 20px auto;
+}
+.ending-img {
+    height: 400px;
+    width: 500px;
+    border: 5px solid #95c22b;
+    padding: 2px;
+    text-align: center;
+    margin: 0px 700px 0px 700px;
+    display:none;
+}
+.last-button {
+    height: 50px;
+    width: 100px;
+}
+.questions{
+    color: #63371e;
+    text-align: center;
+    font-family: 'Montagu Slab', sans-serif;
+    font-size: 30px;
+    font-weight: 800;
+}
